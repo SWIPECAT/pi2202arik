@@ -1,6 +1,6 @@
 import codecs
 import os
-
+#тестовая проверка
 class Car(object):
 
     def __init__(self, num, name, year, fuel, volume, power, transmission, drive, wheel, color, run, lights, doors):
